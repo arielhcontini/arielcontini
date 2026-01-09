@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on any project!
 
 https://arielcontini.github.io/cv/
+https://www.behance.net/arielhcontini
+https://www.linkedin.com/in/arielhcontini/
 
 <!---
 arielcontini/arielcontini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
