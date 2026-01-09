@@ -1,7 +1,9 @@
-- 👋 Hi, I’m alén
-- 👀 I’m interested in UI and UX Design
-- 🌱 I’m currently learning User Experiencie
+- 👋 Hi, I’m Ariel Hernán Contini
+- 👀 I’m interested in create digital products
+- 🌱 I’m currently learning AI Tools
 - 💞️ I’m looking to collaborate on any project!
+
+https://arielcontini.github.io/cv/
 
 <!---
 arielcontini/arielcontini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
